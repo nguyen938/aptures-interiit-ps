@@ -1,9 +1,3 @@
-
-#### Link For Demo of the Platform 
-https://drive.google.com/file/d/1yPkJHUe1RUzIBdrHkONERE9QeYbnUJCZ/view?usp=sharing
-
-
-![Alt text](<WhatsApp Image 2023-12-11 at 05.55.38_00f90646.jpg>)
 # Zero-Day Future Contracts
 
 This project aims to develop and deploy a decentralized futures trading platform on the Aptos blockchain. This platform focuses on offering seamless trading of short-term futures contracts expiring within 24 hours, with the potential to include longer-dated contracts in the future.
